@@ -1,3 +1,7 @@
+package OfferGogogo;
+
+import java.util.LinkedList;
+
 /**
  * @author isysc1@163.com
  * @date 2020/2/29
@@ -7,7 +11,7 @@ public class SolutionO29_2 {
     private LinkedList<Integer> data;
     private LinkedList<Integer> maxQue;
 
-    public MaxQueue() {
+    public SolutionO29_2() {
         data = new LinkedList<>();
         maxQue = new LinkedList<>();
         maxQue.addLast(Integer.MIN_VALUE);

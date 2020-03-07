@@ -34,7 +34,7 @@ public class Solution1221 {
 
 // 第二种解法 相比第一种会简单
 // 通过判断n来决定L和R，当n为0的时候，LR平衡
-/**
+
 //class Solution {
 //    public int balancedStringSplit(String s) {
 //        int num = 0;
