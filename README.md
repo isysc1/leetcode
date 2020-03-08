@@ -39,6 +39,7 @@
 | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)     |                中等  | 设计 |
 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/comments/)     |                中等  | 堆 · 分治算法 |
 | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/submissions/)     |                中等  | 二分查找 · 动态规划 |
+| [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)     |                中等  | 动态规划 |
 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)     |                中等  | 位运算 · 动态规划 |
 | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/comments/)     |                中等  | 堆 · 哈希表 |
 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/comments/)     |                简单  | 数组 |
