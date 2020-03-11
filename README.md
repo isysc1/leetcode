@@ -48,6 +48,7 @@
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/comments/)     |                简单  |  树 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)     |                中等  |  广度优先搜索 |
+| [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)     |                简单  |  数组 |
 | [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)     |                简单  |  数学 |
 | [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)     |                简单  |  字符串 |
 | [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)     |                简单  | 贪心 · 字符串 |
