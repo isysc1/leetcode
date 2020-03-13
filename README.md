@@ -15,6 +15,7 @@
 | [面试题16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)     |                简单  | 剑指Offer |
 | [面试题18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     |                简单  | 剑指Offer |
 | [面试题19. 正则表达式匹配]( https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)     |                困难  | 剑指Offer |
+| [面试题20. 表示数值的字符串](  https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)     |                困难  | 剑指Offer |
 | [面试题22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)     |                简单  | 剑指Offer |
 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     |                简单  | 剑指Offer |
 | [面试题37. 序列化二叉树 ](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)     |                困难  | 剑指Offer |
