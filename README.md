@@ -39,6 +39,7 @@
 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)     |                中等  | 数组 · 动态规划 |
 | [121. 买卖股票的最佳时机]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)     |                中等  | 数组 · 动态规划 |
 | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)     |                中等  | 设计 |
+| [169. 多数元素]( https://leetcode-cn.com/problems/majority-element/)     |                简单  | 位运算 · 分治算法 |
 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/comments/)     |                中等  | 堆 · 分治算法 |
 | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/submissions/)     |                中等  | 二分查找 · 动态规划 |
 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)     |                中等  | 动态规划 |
