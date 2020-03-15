@@ -19,6 +19,7 @@
 | [面试题22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)     |                简单  | 剑指Offer |
 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     |                简单  | 剑指Offer |
 | [面试题37. 序列化二叉树 ](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)     |                困难  | 剑指Offer |
+| [面试题41. 数据流中的中位数 ](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)     |                困难  | 剑指Offer |
 | [面试题44. 数字序列中某一位的数字 ](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     |                中等  | 剑指Offer |
 | [面试题53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)     |                简单  | 剑指Offer |
 | [面试题55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)     |                简单  | 剑指Offer |
