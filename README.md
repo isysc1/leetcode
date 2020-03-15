@@ -51,6 +51,7 @@
 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)     |                简单  | 树 |
 | [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)     |                简单  |  栈 · 哈希表 |
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/comments/)     |                简单  |  树 |
+| [695. 岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/)     |                中等  |  数组 · 深度优先搜索 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)     |                中等  |  广度优先搜索 |
 | [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)     |                简单  |  数组 |
