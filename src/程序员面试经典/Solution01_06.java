@@ -1,4 +1,4 @@
-package 剑指Offer;
+package LeetCode;
 
 /**
  * @author isysc1@163.com
