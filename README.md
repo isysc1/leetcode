@@ -59,5 +59,6 @@
 | [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)     |                简单  |  数组 |
 | [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)     |                简单  |  字符串 |
 | [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)     |                简单  |  数学 |
+| [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)     |                简单  |  数组 |
 | [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)     |                简单  |  字符串 |
 | [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)     |                简单  | 贪心 · 字符串 |
