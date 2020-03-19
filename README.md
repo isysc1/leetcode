@@ -50,6 +50,7 @@
 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)     |                中等  | 动态规划 |
 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)     |                中等  | 位运算 · 动态规划 |
 | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/comments/)     |                中等  | 堆 · 哈希表 |
+| [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)     |                中等  |  哈希表 |
 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/comments/)     |                简单  | 数组 |
 | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)     |                简单  | 树 |
 | [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)     |                简单  |  栈 · 哈希表 |
