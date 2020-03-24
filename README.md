@@ -33,6 +33,7 @@
 | [面试题62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)     |                简单  | 剑指Offer |
 | [面试题65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)     |                简单  | 剑指Offer |
 | [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)     |                简单  | 程序员面试经典 |
+| [面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)     |                简单  | 程序员面试经典 |
 | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/comments/)     |                中等  | 字符串 |
 | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)     |                中等  | 字符串 · 数学 |
 | [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/comments/)     |                中等  | 字符串 · 数字 |
