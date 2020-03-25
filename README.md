@@ -22,6 +22,7 @@
 | [面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)     |                简单  | 剑指Offer |
 | [面试题41. 数据流中的中位数 ](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)     |                困难  | 剑指Offer |
 | [面试题44. 数字序列中某一位的数字 ](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     |                中等  | 剑指Offer |
+| [面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)     |                中等  | 剑指Offer |
 | [面试题49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)     |                中等  | 剑指Offer |
 | [面试题53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)     |                简单  | 剑指Offer |
 | [面试题55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)     |                简单  | 剑指Offer |
@@ -63,6 +64,7 @@
 | [695. 岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/)     |                中等  |  数组 · 深度优先搜索 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)     |                简单  |  链表 |
+| [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)     |                简单  |  几何  · 数学|
 | [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)     |                中等  |  数组 |
 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)     |                中等  |  广度优先搜索 |
 | [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)     |                简单  |  数组 |
