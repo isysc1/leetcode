@@ -26,6 +26,7 @@
 | [面试题49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)     |                中等  | 剑指Offer |
 | [面试题53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)     |                简单  | 剑指Offer |
 | [面试题55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)     |                简单  | 剑指Offer |
+| [面试题56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)     |                中等  | 剑指Offer |
 | [面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)     |                简单  | 剑指Offer |
 | [面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)     |                简单  | 剑指Offer |
 | [面试题58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)     |                简单  | 剑指Offer |
