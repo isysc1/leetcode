@@ -67,6 +67,7 @@
 | [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)     |                简单  |  几何  · 数学|
 | [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)     |                中等  |  数组 |
 | [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)     |                中等  |  广度优先搜索 |
+| [999. 车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/)     |                简单  |  数组 |
 | [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)     |                简单  |  数组 |
 | [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)     |                简单  |  字符串 |
 | [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)     |                简单  |  数学 |
