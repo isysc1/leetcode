@@ -64,6 +64,7 @@
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/comments/)     |                简单  |  树 |
 | [695. 岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/)     |                中等  |  数组 · 深度优先搜索 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
+| [820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)     |                中等  |  字符串 |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)     |                简单  |  链表 |
 | [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)     |                简单  |  几何  · 数学|
 | [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)     |                中等  |  数组 |
