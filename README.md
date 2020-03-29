@@ -75,5 +75,6 @@
 | [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)     |                简单  |  数学 |
 | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)     |                简单  |  数组 |
 | [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)     |                简单  |  字符串 |
+| [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)     |                中等  |  图 |
 | [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)     |                简单  | 贪心 · 字符串 |
 | [1375. 灯泡开关 III]( https://leetcode-cn.com/problems/bulb-switcher-iii/)     |                中等  | 数组 |
