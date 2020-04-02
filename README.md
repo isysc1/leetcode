@@ -54,6 +54,7 @@
 | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)     |                中等  | 设计 |
 | [169. 多数元素]( https://leetcode-cn.com/problems/majority-element/)     |                简单  | 位运算 · 分治算法 |
 | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/comments/)     |                中等  | 堆 · 分治算法 |
+| [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/)     |                中等  | 数组 |
 | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/submissions/)     |                中等  | 二分查找 · 动态规划 |
 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)     |                中等  | 动态规划 |
 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)     |                中等  | 位运算 · 动态规划 |
