@@ -36,6 +36,7 @@
 | [面试题65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)     |                简单  | 剑指Offer |
 | [面试题66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)     |                简单  | 剑指Offer |
 | [面试题67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)     |                中等  | 剑指Offer |
+| [面试题68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)     |                中等  | 剑指Offer |
 | [面试题68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)     |                中等  | 剑指Offer |
 | [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)     |                简单  | 程序员面试经典 |
 | [面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)     |                简单  | 程序员面试经典 |
