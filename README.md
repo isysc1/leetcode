@@ -48,6 +48,7 @@
 | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)     |                中等  | 字符串 · 回溯算法 |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/comments/)     |                中等  | 数组 · 二分查找 |
 | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/comments/)     |                中等  | 数组 · 回溯算法 |
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)     |                困难  | 数组 · 指针 |
 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/comments/)     |                中等  | 哈希表 · 字符串 |
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)     |                简单  | 排序 · 数组 · 双指针 |
 | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)     |                中等  | 数组 · 动态规划 |
