@@ -1,4 +1,4 @@
-package OfferGogogo;
+package 剑指Offer;
 
 import java.util.LinkedList;
 

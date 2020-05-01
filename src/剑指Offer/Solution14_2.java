@@ -1,4 +1,4 @@
-package OfferGogogo;
+package 剑指Offer;
 
 /**
  * @author isysc1@163.com

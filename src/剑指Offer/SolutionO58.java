@@ -1,4 +1,6 @@
-package OfferGogogo;
+package 剑指Offer;
+
+import java.util.HashMap;
 
 /**
  * @author isysc1@163.com
