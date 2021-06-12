@@ -1,5 +1,5 @@
 # leetcode
-**部分答案非原创，解题思路有不懂的可以随时邮箱交流！isysc1@163.com**
+**解题思路有不懂的可以随时邮箱交流！isysc1@163.com**
 
 
 |     题号                            | 难度 |             标签               |
@@ -68,6 +68,7 @@
 | [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)     |                简单  |  栈 · 哈希表 |
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/comments/)     |                简单  |  树 |
 | [695. 岛屿的最大面积]( https://leetcode-cn.com/problems/max-area-of-island/)     |                中等  |  数组 · 深度优先搜索 |
+| [714. 买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)     |                中等  |  数组 · 贪心算法 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
 | [820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)     |                中等  |  字符串 |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)     |                简单  |  链表 |
