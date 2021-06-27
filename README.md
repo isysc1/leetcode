@@ -71,6 +71,7 @@
 | [714. 买卖股票的最佳时机含手续费]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)     |                中等  |  数组 · 贪心算法 |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/comments/)     |                中等  |  字符串 |
 | [820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)     |                中等  |  字符串 |
+| [875. 爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas)     |                中等  |  二分 |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)     |                简单  |  链表 |
 | [892. 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)     |                简单  |  几何  · 数学|
 | [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)     |                中等  |  数组 |
