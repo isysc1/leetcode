@@ -86,3 +86,4 @@
 | [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)     |                中等  |  图 |
 | [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)     |                简单  | 贪心 · 字符串 |
 | [1375. 灯泡开关 III]( https://leetcode-cn.com/problems/bulb-switcher-iii/)     |                中等  | 数组 |
+| [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/)     |                简单  | 数学· 位运算 |
