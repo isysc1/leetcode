@@ -88,3 +88,4 @@
 | [1375. 灯泡开关 III]( https://leetcode-cn.com/problems/bulb-switcher-iii/)     |                中等  | 数组 |
 | [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/)     |                简单  | 数学· 位运算 |
 | [剑指 Offer II 003. 前 n 个数字二进制中 1 的个数](https://leetcode.cn/problems/w3tCBm/comments/)     |                简单  | 数学· 位运算 |
+| [剑指 Offer II 004. 只出现一次的数字 ](https://leetcode.cn/problems/WGki4K/)     |                中等  | 数学· 位运算 |
