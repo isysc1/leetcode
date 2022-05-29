@@ -91,3 +91,4 @@
 | [剑指 Offer II 004. 只出现一次的数字 ](https://leetcode.cn/problems/WGki4K/)     |                中等  | 数学· 位运算 |
 | [剑指 Offer II 005. 单词长度的最大乘积 ](https://leetcode.cn/problems/aseY1I/)     |                中等  | 数组· 位运算 |
 | [剑指 Offer II 006. 排序数组中两个数字之和 ](https://leetcode.cn/problems/kLl5u1/)     |                中等  | 数组· 双指针 |
+| [剑指 Offer II 007. 数组中和为 0 的三个数](https://leetcode.cn/problems/1fGaJU/)     |                中等  | 数组· 双指针 |
