@@ -95,3 +95,4 @@
 | [剑指 Offer II 008. 和大于等于 target 的最短子数组](https://leetcode.cn/problems/2VG8Kg/)     |                中等  | 数组· 二分查找 |
 | [剑指 Offer II 009. 乘积小于 K 的子数组](https://leetcode.cn/problems/ZVAVXX/)     |                中等  | 数组· 滑动窗口 |
 | [剑指 Offer II 010. 和为 k 的子数组](https://leetcode.cn/problems/QTMn0o/)     |                中等  | 数组· 哈希表 |
+| [剑指 Offer II 011. 0 和 1 个数相同的子数组](https://leetcode.cn/problems/A1NYOS/)     |                中等  | 数组· 哈希表 |
