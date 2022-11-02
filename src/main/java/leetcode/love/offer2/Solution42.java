@@ -1,4 +1,4 @@
-package leetcode.love.get_offer2;
+package leetcode.love.offer2;
 
 // 剑指 Offer 42. 连续子数组的最大和
 
