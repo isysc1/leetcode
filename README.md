@@ -14,5 +14,6 @@
 | [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/submissions/)     |                简单 |记忆化搜索 数学 动态规划 | 其他 | [70 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution74.java)
 | [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)     |                简单 |数组 动态规划 | 其他 | [746 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution746.java)
 | [62. 不同路径](https://leetcode.cn/problems/unique-paths/)     |                中等 |数学 动态规划 组合数学  | 其他 | [746 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution62.java)
-| [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/)     |                中等 |数学 动态规划 组合数学  | 其他 | [63解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution63.java)
-| [343. 整数拆分](https://leetcode.cn/problems/integer-break/)     |                中等 |数学 动态规划  | 其他 | [343解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution343.java)
+| [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/)     |                中等 |数学 动态规划 组合数学  | 其他 | [63 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution63.java)
+| [343. 整数拆分](https://leetcode.cn/problems/integer-break/)     |                中等 |数学 动态规划  | 其他 | [343 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution343.java)
+| [96. 不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)     |                中等 |树 二叉搜索树 数学 动态规划 二叉树   | 其他 | [96 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution96.java)
