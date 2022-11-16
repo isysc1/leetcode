@@ -6,7 +6,8 @@
 
 | 序号      | 更新时间 | 题目    | 难度      | 标签 | 题集    | 解析        |
 | :-----:        |    :------:   |     :---------: | :-------------:     |    :--------:   |        :-------: | :-------:   | 
-|10|2022-11-15|  [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)     |                简单 |数组 哈希表 排序   | 其他 | [03 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution3.java)
+|11|2022-11-16|  [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)     |                简单 |数组 二分查找 分治 矩阵    |  剑指Offer2 | [04 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution4.java)
+|10|2022-11-15|  [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)     |                简单 |数组 哈希表 排序   |  剑指Offer2 | [03 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution3.java)
 |9|2022-11-13|  [96. 不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)     |                中等 |树 二叉搜索树 数学 动态规划 二叉树   | 其他 | [96 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution96.java)
 |8|更新时间|  [剑指 Offer2 42. 连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)     |                简单 |数组 分治 动态规划 | 剑指Offer2 | [42 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution42.java)
 |7|更新时间|  [剑指 Offer 10- I. 斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)     |            简单 |记忆化搜索 数学 动态规划 | 剑指Offer | [10-1 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer1/Solution10.java)
