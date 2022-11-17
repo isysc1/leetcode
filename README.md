@@ -6,6 +6,7 @@
 
 | 序号      | 更新时间 | 题目    | 难度      | 标签 | 题集    | 解析        |
 | :-----:        |    :------:   |     :---------: | :-------------:     |    :--------:   |        :-------: | :-------:   | 
+|11|2022-11-17|  [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)     |                简单 |Topics 字符串    |  剑指Offer2 | [5 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution5.java)
 |11|2022-11-16|  [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)     |                简单 |数组 二分查找 分治 矩阵    |  剑指Offer2 | [04 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution4.java)
 |10|2022-11-15|  [剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)     |                简单 |数组 哈希表 排序   |  剑指Offer2 | [03 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution3.java)
 |9|2022-11-13|  [96. 不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)     |                中等 |树 二叉搜索树 数学 动态规划 二叉树   | 其他 | [96 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution96.java)
