@@ -6,6 +6,7 @@
 
 | 序号      | 更新时间 | 题目    | 难度      | 标签 | 题集    | 解析        |
 | :-----:        |    :------:   |     :---------: | :-------------:     |    :--------:   |        :-------: | :-------:   | 
+|14|2022-11-23|  [416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/)     |                中等 |数学 字符串 模拟    |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution101.java)
 |13|2022-11-23|  [剑指 Offer 07. 重建二叉树](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)     |                中等 |树 数组 哈希表 分治 二叉树   |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution7.java)
 |12|2022-11-17|  [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)     |                简单 |Topics 字符串    |  剑指Offer2 | [5 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution5.java)
 |11|2022-11-16|  [剑指 Offer 04. 二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)     |                简单 |数组 二分查找 分治 矩阵    |  剑指Offer2 | [04 解析](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution4.java)
