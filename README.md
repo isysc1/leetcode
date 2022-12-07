@@ -6,6 +6,8 @@
 
 | 序号      | 更新时间 | 题目    | 难度      | 标签 | 题集    | 解析        |
 | :-----:        |    :------:   |     :---------: | :-------------:     |    :--------:   |        :-------: | :-------:   | 
+|17|2022-12-07|  [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/)     |                  简单 |位运算  |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution191.java)
+|17|2022-12-07|  [剑指 Offer 15. 二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     |                简单 |位运算   |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution15.java)
 |17|2022-12-06|  [剑指 Offer 14- II. 剪绳子 II](https://leetcode.cn/problems/jian-sheng-zi-ii-lcof/)     |                中等 |数学 动态规划   |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution14_2.java)
 |16|2022-12-01|  [剑指 Offer 11. 旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/comments/)     |                简单 |数组 二分查找   |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution11.java)
 |15|2022-11-24|  [14- I. 剪绳子](https://leetcode.cn/problems/jian-sheng-zi-lcof/)     |                中等 |数学 动态规划   |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/offer2/Solution14_1.java)
