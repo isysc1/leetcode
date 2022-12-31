@@ -6,6 +6,7 @@
 
 | 序号      | 更新时间 | 题目    | 难度      | 标签 | 题集    | 解析        |
 | :-----:        |    :------:   |     :---------: | :-------------:     |    :--------:   |        :-------: | :-------:   | 
+|20|2022-12-31|  [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)     
 |19|2022-12-12|  [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     |                  简单 |链表 |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution18.java)
 |18|2022-12-08|  [剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)     |                  中等 |递归 数学  |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution16.java)
 |17|2022-12-07|  [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/)     |                  简单 |位运算  |  剑指Offer2 | [解析超链接](https://github.com/isysc1/leetcode/blob/master/src/main/java/leetcode/love/other/Solution191.java)
